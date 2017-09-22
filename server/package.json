@@ -1,0 +1,10 @@
+{
+    "name": "todoserver",
+    "version": "1.0.0",
+    "dependencies":
+    {
+	"body-parser": "~1.14.0",
+	"express": "~4.0.0"
+    }
+}
+
